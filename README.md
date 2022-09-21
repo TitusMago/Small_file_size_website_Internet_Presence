@@ -7,4 +7,4 @@ Project got completed  with HTML code.
 1. Download & extract a zip file for this project.
 2. Double click index.html file.
 3. Project opens on your default browser. 
-4. To look at code, double click files in this repository.
+4. To look at code, click files in this repository.
